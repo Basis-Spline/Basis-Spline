@@ -8,11 +8,6 @@
   <strong>Welcome to my GitHub profile!</strong>
 </p>
 
-<p align="center">
-  <a href="#projects">Projects</a> •
-  <a href="#skills">Skills</a> •
-</p>
-
 ---
 
 ## Projects
