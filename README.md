@@ -9,21 +9,11 @@
 </p>
 
 <p align="center">
-  <a href="#about">About Me</a> •
   <a href="#projects">Projects</a> •
   <a href="#skills">Skills</a> •
-  <a href="#contact">Contact</a>
 </p>
 
 ---
-
-## About Me
-
-I'm Chris, an electrical engineer with a passion for technology and innovation. I love exploring the intersection of hardware and software, and I'm constantly learning and applying my knowledge to exciting projects.
-
-As an engineering enthusiast, I enjoy working on challenging problems and finding creative solutions. I have a strong foundation in electrical engineering principles, including circuit design, control systems, and signal processing. I'm also proficient in programming languages like C++, Python, and MATLAB, which enables me to develop software solutions for various engineering applications.
-
-In addition to my technical skills, I am a dedicated learner, a collaborative team player, and a problem solver. I'm always eager to take on new challenges and contribute to projects that make a positive impact.
 
 ## Projects
 
