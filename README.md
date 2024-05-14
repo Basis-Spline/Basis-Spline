@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋</h1>
 
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/creative-watercolor-galaxy-background_79603-1388.jpg" alt="Profile Picture" width="500">
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/e/eb/LSST_Flammarion.png]" alt="Profile Picture" width="500">
 </p>
 
 ---
