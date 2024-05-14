@@ -1,11 +1,7 @@
-<h1 align="center">Hi there! 👋</h1>
+<h1 align="center">Hello 👋</h1>
 
 <p align="center">
   <img src="https://img.freepik.com/free-vector/creative-watercolor-galaxy-background_79603-1388.jpg" alt="Profile Picture" width="200">
-</p>
-
-<p align="center">
-  <strong>Welcome to my GitHub profile!</strong>
 </p>
 
 ---
