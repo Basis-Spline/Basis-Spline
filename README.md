@@ -1,16 +1,44 @@
-### Hi there 👋
+<h1 align="center">Hi there! 👋</h1>
 
-<!--
-**Basis-Spline/Basis-Spline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.freepik.com/free-vector/creative-watercolor-galaxy-background_79603-1388.jpg" alt="Profile Picture" width="200">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong>Welcome to my GitHub profile!</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="#about">About Me</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#skills">Skills</a> •
+  <a href="#contact">Contact</a>
+</p>
+
+---
+
+## About Me
+
+I'm Chris, an electrical engineer with a passion for technology and innovation. I love exploring the intersection of hardware and software, and I'm constantly learning and applying my knowledge to exciting projects.
+
+As an engineering enthusiast, I enjoy working on challenging problems and finding creative solutions. I have a strong foundation in electrical engineering principles, including circuit design, control systems, and signal processing. I'm also proficient in programming languages like C++, Python, and MATLAB, which enables me to develop software solutions for various engineering applications.
+
+In addition to my technical skills, I am a dedicated learner, a collaborative team player, and a problem solver. I'm always eager to take on new challenges and contribute to projects that make a positive impact.
+
+## Projects
+
+Here are a few noteworthy projects I have worked on:
+
+- [Project 1](https://github.com/your-username/project-1): An Arduino-based home automation system with remote control capabilities.
+- [Project 2](https://github.com/your-username/project-2): A real-time data acquisition and analysis tool for sensor networks.
+- [Project 3](https://github.com/your-username/project-3): Design and simulation of a digital audio amplifier using FPGA.
+
+Feel free to explore my GitHub repositories for more projects and code samples.
+
+## Skills
+
+- **Electrical Engineering**: Circuit design, PCB layout, control systems, signal processing.
+- **Programming Languages**: C++, Python, MATLAB.
+- **Embedded Systems**: Arduino, Raspberry Pi, FPGA.
+- **Simulation and Modeling**: SPICE, Simulink, LTspice.
+- **Hardware Prototyping**: Soldering, breadboarding, sensor interfacing.
