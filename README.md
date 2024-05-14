@@ -1,14 +1,14 @@
 <h1 align="center">Hello 👋</h1>
 
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/creative-watercolor-galaxy-background_79603-1388.jpg" alt="Profile Picture" width="200">
+  <img src="https://img.freepik.com/free-vector/creative-watercolor-galaxy-background_79603-1388.jpg" alt="Profile Picture" width="500">
 </p>
 
 ---
 
 ## Projects
 
-Here are a few noteworthy projects I have worked on:
+These are a few of my favorite things:
 
 - [Project 1](https://github.com/your-username/project-1): Multi-Camera Array Simulator.
 - [Project 2](https://github.com/your-username/project-2): A real-time data acquisition and analysis tool for sensor networks.
