@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋</h1>
 
 <p align="center">
-  <img src="[(https://en.wikipedia.org/wiki/Gallium_nitride#/media/File:Crystal-GaN.jpg)]" alt="Profile Picture" width="500">
+  <img src="[https://en.wikipedia.org/wiki/Gallium_nitride#/media/File:Crystal-GaN.jpg]" alt="Profile Picture" width="500">
 </p>
 
 ---
