@@ -29,9 +29,10 @@ In addition to my technical skills, I am a dedicated learner, a collaborative te
 
 Here are a few noteworthy projects I have worked on:
 
-- [Project 1](https://github.com/your-username/project-1): An Arduino-based home automation system with remote control capabilities.
+- [Project 1](https://github.com/your-username/project-1): Multi-Camera Array Simulator.
 - [Project 2](https://github.com/your-username/project-2): A real-time data acquisition and analysis tool for sensor networks.
 - [Project 3](https://github.com/your-username/project-3): Design and simulation of a digital audio amplifier using FPGA.
+- [Project 4](https://github.com/your-username/project-4): High Precision Signal Mapping.
 
 Feel free to explore my GitHub repositories for more projects and code samples.
 
