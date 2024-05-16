@@ -12,7 +12,7 @@ These are a few of my favorite things:
 
 - [Project 1](https://github.com/your-username/project-1): Multi-Camera Array Simulator.
 - [Project 2](https://github.com/your-username/project-2): A real-time data acquisition and analysis tool for sensor networks.
-- [Project 3](https://github.com/your-username/project-3): Design and simulation of a digital audio amplifier using FPGA.
+- [Project 3](https://github.com/Basis-Spline/ESP32-EnvMonitor): ESP32 Environmental Monitor.
 - [Project 4](https://github.com/your-username/project-4): High Precision Signal Mapping.
 
 Feel free to explore my GitHub repositories for more projects and code samples.
