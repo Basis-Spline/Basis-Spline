@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋</h1>
 
 <p align="center">
-  <img src="https://lasers.llnl.gov/content/assets/images/news/nifps_news/2023/science/muon.jpg" alt="Muon" width="500">
+  <img src="https://lasers.llnl.gov/sites/lasers/files/styles/scaled_425h/public/2023-11/muon.jpg" alt="Muon" width="500">
 </p>
 
 ---
